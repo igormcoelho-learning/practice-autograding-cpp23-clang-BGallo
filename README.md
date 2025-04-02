@@ -13,7 +13,7 @@ If you want to practice this activity, just follow this link: (TODO: update)
 
 ## Full-Name-Of-Student
 
-**TODO - Please put your name in this README**
+Bernardo Gallo Victorino dos Santos
 
 ## Problem Description
 
@@ -24,7 +24,7 @@ This part describes the activity. This example activity consists in fixing two f
 - Make the code pass correctly on all tests
    * only change the allowed files to achieve this goal (see instructions below with specific rules).
 
-- The GitHub Actions should present a green marker when all tests are satisfied, and a red X when some (or all) of tests fail. 
+- The GitHub Actions should present a green marker when all tests are satisfied, and a red X when some (or all) of tests fail.
     * **Advice:** You can click on the red X to verify which tests have failed (or if code didn't compile correctly).
     * **Advice 2:** If no autograding test appear, it may be required for the **instructor** to *update the test activities*, so that all student repos are refreshed (regarding autograding).
 
@@ -47,7 +47,7 @@ Explanations for the other files:
 
 ## Notes
 
-- The code will be evaluated only if compiling! 
+- The code will be evaluated only if compiling!
    * The reason is, if it doesn't compile, it won't be possible to generate the executable and to perform tests.
 
 - Some test cases may receive individual grade, while others may only receive grade if passing together (or even all tests passing together).
